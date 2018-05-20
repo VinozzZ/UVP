@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{A752B2EB-9288-F737-1F8C-76DD17179345}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ExplorerCollisionDetector.cs">
+    <Files>
+      <File FileName="Assets/SteamVR/Scripts/SteamVR_TrackedObject.cs" Line="74" Column="1" />
+      <File FileName="Assets/NavigatorCollisionDetector.cs" Line="3" Column="15" />
+      <File FileName="Assets/ExplorerCollisionDetector.cs" Line="39" Column="34" />
+      <File FileName="Assets/CapsulePosition.cs" Line="18" Column="15" />
+      <File FileName="Assets/SteamVR/Scripts/SteamVR_Controller.cs" Line="111" Column="25" />
+      <File FileName="Assets/TargetController.cs" Line="24" Column="42" />
+      <File FileName="Assets/ScoreText.cs" Line="20" Column="57" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
